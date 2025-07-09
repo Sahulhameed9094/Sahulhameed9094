@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software developer specializing in .NET Core
+Technology Architect with 8+ years of experience specializing in ASP.NET Core, Microservices Architecture, and Azure DevOps. Proven expertise in designing scalable, enterprise-grade solutions using modern design patterns and cloud-native practices. Passionate about driving digital transformation and delivering high-performance systems aligned with business goals.
 
 
 ## 🌐 Socials:
