@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Sahul — Technology Architect | .NET Specialist
+### 👋 Hi, I’m Sahul — Senior .NET Developer
   With 8+ years of experience, I specialise in designing scalable, enterprise-grade systems using ASP.NET Core, Microservices Architecture, and Azure DevOps.
   I combine clean code, domain-driven design, and cloud-native principles to deliver high-performance solutions that align with business goals.
   
